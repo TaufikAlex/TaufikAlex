@@ -2,9 +2,9 @@
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a>
+- 🔭 I’m currently working on <a href="">Self Employee</a>
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: taufikalexx13@gmail.com
+- 📫 How to reach me: taufikalex.work@gmail.com
 - ⚡ Fun fact: Will be Father of a daughter
 
 ### Tech Stack
